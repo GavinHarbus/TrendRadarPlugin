@@ -1,5 +1,7 @@
 # TrendRadar
 
+[**Chrome Web Store link**](https://chromewebstore.google.com/detail/ofliifjmlbfgmgfnlppegfcafemodega?utm_source=item-share-cb)
+
 **Spot emerging trends before they go mainstream.**
 
 TrendRadar is a Chrome extension for content creators. It captures public content signals from Reddit and X as you browse, stores everything locally, and uses AI to surface rising topics and cross-platform momentum.
